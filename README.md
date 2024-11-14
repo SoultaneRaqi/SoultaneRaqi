@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning   C++ , C#<br><br>👨‍💻 All of my projects are available at   https://raqisoultane.github.io/soultane-raqi-portfolio/<br><br>💬 Ask me about   Python , Web devloppment<br><br>📫 How to reach me    soultaneraqi1@gmail.com<br><br>⚡ Fun fact  " I think am funny 🤓 "
+🌱 I’m currently learning   Solidity<br><br>👨‍💻 All of my projects are available at   https://raqisoultane.github.io/soultane-raqi-portfolio/<br><br>💬 Ask me about   Python , Web devloppment<br><br>📫 How to reach me    soultaneraqi1@gmail.com<br><br>⚡ Fun fact  " I think am funny 🤓 "
 
 
 ## 🌐 Socials:
