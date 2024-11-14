@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SoultaneRaqi/SoultaneRaqi/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/SoultaneRaqi/SoultaneRaqi/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
