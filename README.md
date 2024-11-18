@@ -63,6 +63,6 @@
 
 ###
 
-![Snake animation](https://github.com/SoultaneRaqi/SoultaneRaqi/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
