@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is Soultane Raqi and I'm a Devloper, from Morocco</h2>
+<h2 align="center">Hi 👋! I'm Soultane a Full-Stack Devloper</h2>
 
 ###
 
