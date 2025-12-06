@@ -60,6 +60,12 @@
 
 ###
 
+<h3 align="center">My Resume :</h3>
 
+<div align="center">
+  <a href="https://drive.google.com/open?id=1E4-ppsq6dEWmwpS9gHc8nIbnyCa3Rqdw" target="_blank">
+    <img src="https://img.shields.io/badge/See%20My%20CV-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="See My CV"/>
+  </a>
+</div>
 
 ###
