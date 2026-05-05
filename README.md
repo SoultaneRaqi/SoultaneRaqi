@@ -2,7 +2,7 @@
   <h1 align="center">SOULTANE RAQI _</h1>
   <p><b>Backend-Focused Software Engineer | System Architecture & APIs</b></p>
 
-  <a href="https://soultane.vercel.app" target="_blank">
+  <a href="https://soultane-raqi.me" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/soultane-raqi-11573b328/" target="_blank">
