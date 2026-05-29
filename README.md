@@ -4,7 +4,7 @@
     <b>Backend Software Engineer | .NET, APIs & Distributed Systems</b>
   </p>
 
-  <a href="https://soultane-raqi.me" target="_blank">
+  <a href="https://soultane-raqi.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
